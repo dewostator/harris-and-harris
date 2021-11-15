@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG answer_1_70_c.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.3622in" height="1.5748in"
+		viewBox="0 0 170.079 113.386" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#000000;fill-opacity:0.4;filter:url(#filter_2.6666667461395);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4}
+		.st3 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:none;filter:url(#filter_2.6666667461395);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4}
+		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:none;filter:url(#filter_2.6666667461395);stroke:none;stroke-linecap:round;stroke-linejoin:round}
+		.st7 {fill:#000000;filter:url(#filter_2.6666667461395);font-family:Calibri;font-size:1.00001em;opacity:0.4}
+		.st8 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st10 {fill:#000000;fill-opacity:0.4;filter:url(#filter_2.6666667461395);stroke:none;stroke-linecap:round;stroke-linejoin:round}
+		.st11 {fill:url(#grad0-76);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-76" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#faf9fb" stop-opacity="1"/>
+			<stop offset="0.74" stop-color="#d9d1e2" stop-opacity="1"/>
+			<stop offset="0.83" stop-color="#d9d1e2" stop-opacity="1"/>
+			<stop offset="1" stop-color="#e5e0ec" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2.6666667461395">
+			<feGaussianBlur stdDeviation="2.6666667461395"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape16-1" v:mID="16" v:groupContext="shape" transform="translate(47.8091,-18)">
+			<title>Лист.16</title>
+			<g id="shadow16-2" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<path d="M0 113.37 A49.6063 28.3465 -180 1 0 0 56.71 A49.6063 49.6063 0 0 1 -0 113.37 Z" class="st2"/>
+			</g>
+			<path d="M0 113.37 A49.6063 28.3465 -180 1 0 0 56.71 A49.6063 49.6063 0 0 1 -0 113.37 Z" class="st3"/>
+		</g>
+		<g id="shape17-6" v:mID="17" v:groupContext="shape" transform="translate(32.1732,-67.6063)">
+			<title>Лист.17</title>
+			<g id="shadow17-7" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<path d="M0 113.39 L16.47 113.39" class="st4"/>
+			</g>
+			<path d="M0 113.39 L16.47 113.39" class="st5"/>
+		</g>
+		<g id="shape18-14" v:mID="18" v:groupContext="shape" transform="translate(31.4868,-56.3698)">
+			<title>Лист.18</title>
+			<g id="shadow18-15" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<path d="M0 113.39 L21.26 113.39" class="st4"/>
+			</g>
+			<path d="M0 113.39 L21.26 113.39" class="st5"/>
+		</g>
+		<g id="shape19-22" v:mID="19" v:groupContext="shape" transform="translate(32.1732,-25.0866)">
+			<title>Лист.19</title>
+			<g id="shadow19-23" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<path d="M0 113.39 L16.47 113.39" class="st4"/>
+			</g>
+			<path d="M0 113.39 L16.47 113.39" class="st5"/>
+		</g>
+		<g id="shape20-30" v:mID="20" v:groupContext="shape" transform="translate(18,-63.9213)">
+			<title>Лист.20</title>
+			<desc>A</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="108" width="14.18" height="10.7717"/>
+			<g id="shadow20-31" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<rect x="0" y="102.614" width="14.1732" height="10.7717" class="st6"/>
+				<text x="4" y="111.6" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>A</text>			</g>
+			<rect x="0" y="102.614" width="14.1732" height="10.7717" class="st8"/>
+			<text x="4" y="111.6" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>A</text>		</g>
+		<g id="shape22-38" v:mID="22" v:groupContext="shape" transform="translate(18,-50.0315)">
+			<title>Лист.22</title>
+			<desc>B</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="108" width="14.18" height="10.7717"/>
+			<g id="shadow22-39" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<rect x="0" y="102.614" width="14.1732" height="10.7717" class="st6"/>
+				<text x="4" y="111.6" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>B</text>			</g>
+			<rect x="0" y="102.614" width="14.1732" height="10.7717" class="st8"/>
+			<text x="4" y="111.6" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>B</text>		</g>
+		<g id="shape23-46" v:mID="23" v:groupContext="shape" transform="translate(18,-36.1417)">
+			<title>Лист.23</title>
+			<desc>C</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="108" width="14.18" height="10.7717"/>
+			<g id="shadow23-47" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<rect x="0" y="102.614" width="14.1732" height="10.7717" class="st6"/>
+				<text x="4" y="111.6" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C</text>			</g>
+			<rect x="0" y="102.614" width="14.1732" height="10.7717" class="st8"/>
+			<text x="4" y="111.6" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>C</text>		</g>
+		<g id="shape25-54" v:mID="25" v:groupContext="shape" transform="translate(120.472,180.425) rotate(180)">
+			<title>Лист.25</title>
+			<g id="shadow25-55" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,-2.12132,-2.12132)" class="st1">
+				<path d="M0 113.39 L21.26 113.39" class="st4"/>
+			</g>
+			<path d="M0 113.39 L21.26 113.39" class="st5"/>
+		</g>
+		<g id="shape26-62" v:mID="26" v:groupContext="shape" transform="translate(119.45,-40.9606)">
+			<title>Лист.26</title>
+			<desc>Y</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="108" width="14.18" height="10.7717"/>
+			<g id="shadow26-63" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<rect x="0" y="102.614" width="14.1732" height="10.7717" class="st6"/>
+				<text x="4.16" y="111.6" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Y</text>			</g>
+			<rect x="0" y="102.614" width="14.1732" height="10.7717" class="st8"/>
+			<text x="4.16" y="111.6" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Y</text>		</g>
+		<g id="shape27-70" v:mID="27" v:groupContext="shape" transform="translate(26.9291,-81.2126)">
+			<title>Лист.27</title>
+			<desc>Y=!(A^B^C^D)</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49.6063" cy="106.299" width="99.22" height="14.1732"/>
+			<g id="shadow27-71" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<rect x="0" y="99.2126" width="99.2126" height="14.1732" class="st10"/>
+			</g>
+			<rect x="0" y="99.2126" width="99.2126" height="14.1732" class="st11"/>
+			<text x="15.51" y="109.9" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Y=!(A^B^C^D)</text>		</g>
+		<g id="shape39-78" v:mID="39" v:groupContext="shape" transform="translate(158.74,39.685) rotate(90)">
+			<title>Лист.39</title>
+			<g id="shadow39-79" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,-2.12132)" class="st1">
+				<path d="M0 113.39 A49.6063 49.6063 142.12 0 1 55.55 113.39" class="st4"/>
+			</g>
+			<path d="M0 113.39 A49.6063 49.6063 142.12 0 1 55.55 113.39" class="st5"/>
+		</g>
+		<g id="shape44-86" v:mID="44" v:groupContext="shape" transform="translate(18,-20.126)">
+			<title>Лист.44</title>
+			<desc>D</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="108" width="14.18" height="10.7717"/>
+			<g id="shadow44-87" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<rect x="0" y="102.614" width="14.1732" height="10.7717" class="st6"/>
+				<text x="4" y="111.6" class="st7" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>D</text>			</g>
+			<rect x="0" y="102.614" width="14.1732" height="10.7717" class="st8"/>
+			<text x="4" y="111.6" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>D</text>		</g>
+		<g id="shape45-94" v:mID="45" v:groupContext="shape" transform="translate(32.1732,-41.8302)">
+			<title>Лист.45</title>
+			<g id="shadow45-95" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+					transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+				<path d="M0 113.39 L21.26 113.39" class="st4"/>
+			</g>
+			<path d="M0 113.39 L21.26 113.39" class="st5"/>
+		</g>
+	</g>
+</svg>
