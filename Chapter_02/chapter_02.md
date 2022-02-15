@@ -73,3 +73,23 @@ d) Y=(!A+!B+!C+D)(!A+B+!C+!D)(!A+B+!D+C)(A+!B+!C+D)(A+!B+C+D)(A+B+!C+!D)
 
 e) Y=(!A+!B+!C+!D)(!A+!B+!C+D)(!A+!B+C+!D)(!A+B+!C+!D)(!A+B+!C+D)(A+B+!C+!D)
 (A+B+!C+D)(A+B+C+!D)(A+B+C+D)
+
+## Упражнение 2.5
+
+Минимизируйте все логические выражения, полученные в упражнении 2.1.
+
+### Ответ 2.5
+
+a) Y=!A!B+A!B+AB = !b+ab = (!b+a)(!b+b) = !b +a 
+
+b) Y=!A!B!C+ABC = !a!b!c+abc
+
+c) Y=!A!B!C+!AB!C+A!B!C+A!BC+ABC = ac+!a!c+a!b!c=ac+!c(!a+a!b) = ac+!a!c+!b!c
+
+d) Y=!A!B!C!D+!A!B!CD+!A!BC!D+!A!BCD+A!B!C!D+A!BC!D+ABC!D
+= !d!b+!bc!d+!a!b!cd+a!b!c!d+abc!d=!a!b+!b!d+ac!d
+
+e) Y=!A!B!C!D+!A!BCD+!AB!CD+!ABC!D+A!B!CD+A!BC!D+AB!C!D+ABCD
+= !a!b+ab+!ab!cd+!abc!d+a!b!cd+a!bc!d
+
+
