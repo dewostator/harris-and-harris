@@ -28,7 +28,7 @@ e) Y=!A!B!C!D+!A!BCD+!AB!CD+!ABC!D+A!B!CD+A!BC!D+AB!C!D+ABCD
 
 a) Y=!AB+A!B+AB
 
-b) Y=!A!BC+A!B!C+!ABC+A!B!C+AB!C
+b) Y=!A!BC+A!BC+!ABC+A!B!C+AB!C
 
 c) Y=!A!BC+AB!C+ABC
 
@@ -80,6 +80,7 @@ e) Y=(!A+!B+!C+!D)(!A+!B+!C+D)(!A+!B+C+!D)(!A+B+!C+!D)(!A+B+!C+D)(A+B+!C+!D)
 
 ### Ответ 2.5
 
+
 a) Y=!A!B+A!B+AB = !b+ab = (!b+a)(!b+b) = !b +a 
 
 b) Y=!A!B!C+ABC = !a!b!c+abc
@@ -91,5 +92,33 @@ d) Y=!A!B!C!D+!A!B!CD+!A!BC!D+!A!BCD+A!B!C!D+A!BC!D+ABC!D
 
 e) Y=!A!B!C!D+!A!BCD+!AB!CD+!ABC!D+A!B!CD+A!BC!D+AB!C!D+ABCD
 = !a!b+ab+!ab!cd+!abc!d+a!b!cd+a!bc!d
+
+## Упражнение 2.6
+
+Минимизируйте все логические выражения, полученные в упражнении 2.2.
+
+### Ответ 2.6
+
+  решил при помощи сайта [https://www.emathhelp.net/en/calculators/discrete-mathematics/boolean-algebra-calculator/?f=%21A%21BCD%2B%21ABC%21D%2B%21ABCD%2BA%21B%21C%21D%2BA%21B%21CD%2BA%21BC%21D%2BA%21BCD]
+
+a) Y=!AB+A!B+AB = a + b
+
+b) Y=!A!BC+AB!C+!ABC+A!B!C+AB!C = a!c+!ac+!bc
+
+c) Y=!A!BC+AB!C+ABC = ab+!a!bc
+
+d) Y=!A!B!C!D+!A!BC!D+!A!BCD+!ABC!D+!ABCD+A!B!C!D+A!BC!D = !ac+!b!d
+
+e) Y=!A!BCD+!ABC!D+!ABCD+A!B!C!D+A!B!CD+A!BC!D+A!BCD = (a+c)(a+b+d)(!a+!b)
+
+## Упражнение 2.7
+
+Нарисуйте достаточно простые комбинационные схемы, реализующие выражения,
+полученные в упражнении 2.5. Под достаточно простой схемой подразумевается
+такая, которая состоит из небольшого количества элементов, но при этом ее
+разработчик не тратит много времени на проверку каждой из возможных
+реализаций схемы.
+
+### Ответ 2.7
 
 
