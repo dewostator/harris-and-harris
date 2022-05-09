@@ -99,7 +99,8 @@ e) Y=!A!B!C!D+!A!BCD+!AB!CD+!ABC!D+A!B!CD+A!BC!D+AB!C!D+ABCD
 
 ### Ответ 2.6
 
-  решил при помощи сайта [https://www.emathhelp.net/en/calculators/discrete-mathematics/boolean-algebra-calculator/?f=%21A%21BCD%2B%21ABC%21D%2B%21ABCD%2BA%21B%21C%21D%2BA%21B%21CD%2BA%21BC%21D%2BA%21BCD]
+<!---
+  решил при помощи сайта [https://www.emathhelp.net/en/calculators/discrete-mathematics/boolean-algebra-calculator/?f=%21A%21BCD%2B%21ABC%21D%2B%21ABCD%2BA%21B%21C%21D%2BA%21B%21CD%2BA%21BC%21D%2BA%21BCD] --->
 
 a) Y=!AB+A!B+AB = a + b
 
