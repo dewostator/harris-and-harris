@@ -9,15 +9,15 @@
 
 ### Ответ 2.1
 
-a) Y=!A!B+A!B+AB
+a) Y = !A!B + A!B + AB
 
-b) Y=!A!B!C+ABC
+b) Y = !A!B!C + ABC
 
-c) Y=!A!B!C+!AB!C+A!B!C+A!BC+ABC
+c) Y = !A!B!C + !AB!C + A!B!C + A!BC + ABC
 
-d) Y=!A!B!C!D+!A!B!CD+!A!BC!D+!A!BCD+A!B!C!D+A!BC!D+ABC!D
+d) Y = !A!B!C!D + !A!B!CD + !A!BC!D + !A!BCD + A!B!C!D + A!BC!D + ABC!D
 
-e) Y=!A!B!C!D+!A!BCD+!AB!CD+!ABC!D+A!B!CD+A!BC!D+AB!C!D+ABCD
+e) Y = !A!B!C!D + !A!BCD + !AB!CD + !ABC!D + A!B!CD + A!BC!D + AB!C!D + ABCD
 
 ## Упражнение 2.2
 
@@ -26,15 +26,15 @@ e) Y=!A!B!C!D+!A!BCD+!AB!CD+!ABC!D+A!B!CD+A!BC!D+AB!C!D+ABCD
 
 ### Ответ 2.2
 
-a) Y=!AB+A!B+AB
+a) Y = !AB + A!B + AB
 
-b) Y=!A!BC+A!BC+!ABC+A!B!C+AB!C
+b) Y = !A!BC + !AB!C + !ABC + A!B!C + AB!C
 
-c) Y=!A!BC+AB!C+ABC
+c) Y = !A!BC + AB!C + ABC
 
-d) Y=!A!B!C!D+!A!BC!D+!A!BCD+!ABC!D+!ABCD+A!B!C!D+A!BC!D
+d) Y = !A!B!C!D + !A!BC!D + !A!BCD + !ABC!D + !ABCD + A!B!C!D + A!BC!D
 
-e) Y=!A!BCD+!ABC!D+!ABCD+A!B!C!D+A!B!CD+A!BC!D+A!BCD
+e) Y = !A!BCD + !ABC!D + !ABCD + A!B!C!D + A!B!CD + A!BC!D + A!BCD
 
 ## Упражнение 2.3
 
@@ -43,17 +43,15 @@ e) Y=!A!BCD+!ABC!D+!ABCD+A!B!C!D+A!B!CD+A!BC!D+A!BCD
 
 ### Ответ 2.3
 
-a) Y=(A+!B)
+a) Y = (A+!B)
 
-b) Y=(!A+!B+C)(!A+B+!C)(!A+B+C)(A+!B+!C)(A+!B+C)(A+B+!C)
+b) Y = (!A+!B+C)(!A+B+!C)(!A+B+C)(A+!B+!C)(A+!B+C)(A+B+!C)
 
-c) Y=(!A+!B+C)(!A+B+C)(A+B+!C)
+c) Y = (!A+!B+C)(!A+B+C)(A+B+!C)
 
-d) Y=(!A+B+!C+!D)(!A+B+!C+D)(!A+B+C+!D)(!A+B+C+D)(A+!B+!C+D)(A+!B+C+D)
-(A+B+!C+!D)(A+B+C+D)
+d) Y = (!A+B+!C+!D)(!A+B+!C+D)(!A+B+C+!D)(!A+B+C+D)(A+!B+!C+D)(A+!B+C+D)(A+B+!C+!D)(A+B+C+D)
 
-e) Y=(!A+!B+!C+D)(!A+!B+C+!D)(!A+B+!C+!D)(!A+B+C+D)(A+!B+!C+!D)(A+B+!C+D)
-(A+B+C+!D)
+e) Y = (!A+!B+!C+D)(!A+!B+C+!D)(!A+B+!C+!D)(!A+B+C+D)(A+!B+!C+!D)(A+!B+C+D)(A+B+!C+D)(A+B+C+!D)
 
 ## Упражнение 2.4
 
@@ -62,16 +60,16 @@ e) Y=(!A+!B+!C+D)(!A+!B+C+!D)(!A+B+!C+!D)(!A+B+C+D)(A+!B+!C+!D)(A+B+!C+D)
 
 ### Ответ 2.4
 
-a) Y=!A+!B
+a) Y = (!A+!B)
 
-b) Y=(!A+!B+!C)(A+!B+C)(A+B+C)
+b) Y = (!A+!B+!C)(A+!B+C)(A+B+C)
 
-c) Y=(!A+!B+!C)(!A+B+!C)(!A+B+C)(A+!B+!C)(A+!B+C)
+c) Y = (!A+!B+!C)(!A+B+!C)(!A+B+C)(A+!B+!C)(A+!B+C)
 
-d) Y=(!A+!B+!C+D)(!A+B+!C+!D)(!A+B+!D+C)(A+!B+!C+D)(A+!B+C+D)(A+B+!C+!D)
+d) Y = (!A+!B+!C+D)(!A+B+!C+!D)(!A+B+!C+D)(A+!B+!C+D)(A+!B+C+D)(A+B+!C+!D)
 (A+B+!C+D)(A+B+C+!D)(A+B+C+D)
 
-e) Y=(!A+!B+!C+!D)(!A+!B+!C+D)(!A+!B+C+!D)(!A+B+!C+!D)(!A+B+!C+D)(A+B+!C+!D)
+e) Y = (!A+!B+!C+!D)(!A+!B+!C+D)(!A+!B+C+!D)(!A+B+!C+!D)(!A+B+!C+D)(A+B+!C+!D)
 (A+B+!C+D)(A+B+C+!D)(A+B+C+D)
 
 ## Упражнение 2.5
@@ -81,17 +79,15 @@ e) Y=(!A+!B+!C+!D)(!A+!B+!C+D)(!A+!B+C+!D)(!A+B+!C+!D)(!A+B+!C+D)(A+B+!C+!D)
 ### Ответ 2.5
 
 
-a) Y=!A!B+A!B+AB = !b+ab = (!b+a)(!b+b) = !b +a 
+a) Y = !A!B + A!B + AB = !B+AB = (!B+A)(!B+B) = !B +A 
 
-b) Y=!A!B!C+ABC = !a!b!c+abc
+b) Y = !A!B!C + ABC = !A!B!C+ABC
 
-c) Y=!A!B!C+!AB!C+A!B!C+A!BC+ABC = ac+!a!c+a!b!c=ac+!c(!a+a!b) = ac+!a!c+!b!c
+c) Y = !A!B!C + !AB!C + A!B!C + A!BC + ABC = AC+!A!C+A!B!C=AC+!C(!A+A!B) = AC+!A!C+!B!C
 
-d) Y=!A!B!C!D+!A!B!CD+!A!BC!D+!A!BCD+A!B!C!D+A!BC!D+ABC!D
-= !d!b+!bc!d+!a!b!cd+a!b!c!d+abc!d=!a!b+!b!d+ac!d
+d) Y = !A!B!C!D + !A!B!CD + !A!BC!D + !A!BCD + A!B!C!D + A!BC!D + ABC!D = !D!B+!BC!D+!A!B!CD+A!B!C!D+ABC!D=!A!B+!B!D+AC!D
 
-e) Y=!A!B!C!D+!A!BCD+!AB!CD+!ABC!D+A!B!CD+A!BC!D+AB!C!D+ABCD
-= !a!b+ab+!ab!cd+!abc!d+a!b!cd+a!bc!d
+e) Y = !A!B!C!D + !A!BCD + !AB!CD + !ABC!D + A!B!CD + A!BC!D + AB!C!D + ABCD 
 
 ## Упражнение 2.6
 
@@ -102,24 +98,44 @@ e) Y=!A!B!C!D+!A!BCD+!AB!CD+!ABC!D+A!B!CD+A!BC!D+AB!C!D+ABCD
 <!---
   решил при помощи сайта [https://www.emathhelp.net/en/calculators/discrete-mathematics/boolean-algebra-calculator/?f=%21A%21BCD%2B%21ABC%21D%2B%21ABCD%2BA%21B%21C%21D%2BA%21B%21CD%2BA%21BC%21D%2BA%21BCD] --->
 
-a) Y=!AB+A!B+AB = a + b
+a) Y = !AB + A!B + AB = B(A+!A)+A!B = B + A!B  
 
-b) Y=!A!BC+AB!C+!ABC+A!B!C+AB!C = a!c+!ac+!bc
+B) Y = !A!BC + !AB!C + !ABC + A!B!C + AB!C = A!C+!AC+B!A
 
-c) Y=!A!BC+AB!C+ABC = ab+!a!bc
+c) Y = !A!BC + AB!C + ABC = AB+!A!BC
 
-d) Y=!A!B!C!D+!A!BC!D+!A!BCD+!ABC!D+!ABCD+A!B!C!D+A!BC!D = !ac+!b!d
+d) Y = !A!B!C!D + !A!BC!D + !A!BCD + !ABC!D + !ABCD + A!B!C!D + A!BC!D = !AC+!B!D
 
-e) Y=!A!BCD+!ABC!D+!ABCD+A!B!C!D+A!B!CD+A!BC!D+A!BCD = (a+c)(a+b+d)(!a+!b)
+e) Y = !A!BCD + !ABC!D + !ABCD + A!B!C!D + A!B!CD + A!BC!D + A!BCD = A!B+!ABC+!ACD
 
 ## Упражнение 2.7
 
 Нарисуйте достаточно простые комбинационные схемы, реализующие выражения,
-полученные в упражнении 2.5. Под достаточно простой схемой подразумевается
+полученные в *упражнении 2.5.* Под достаточно простой схемой подразумевается
 такая, которая состоит из небольшого количества элементов, но при этом ее
 разработчик не тратит много времени на проверку каждой из возможных
 реализаций схемы.
 
 ### Ответ 2.7
 
+![Ответ 2.7 a)](2_7_a.svg "Ответ 2.7 a)")
 
+![Ответ 2.7 b)](2_7_b.svg "Ответ 2.7 b)")
+
+![Ответ 2.7 c)](2_7_c.svg "Ответ 2.7 c)")
+
+![Ответ 2.7 d)](2_7_d.svg "Ответ 2.7 d)")
+
+![Ответ 2.7 e)](2_7_e.svg "Ответ 2.7 e)")
+
+### Ответ 2.8
+
+![Ответ 2.8 a)](2_8_a.svg "Ответ 2.8 a)")
+
+![Ответ 2.8 b)](2_8_b.svg "Ответ 2.8 b)")
+
+![Ответ 2.8 c)](2_8_c.svg "Ответ 2.8 c)")
+
+![Ответ 2.8 d)](2_8_d.svg "Ответ 2.8 d)")
+
+![Ответ 2.8 e)](2_8_e.svg "Ответ 2.8 e)")
